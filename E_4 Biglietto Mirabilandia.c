@@ -13,10 +13,10 @@ main ()
 	float altezza;		//Altezza
 	float prezzo;		//Prezzo
 	float età;		//Età
-	printf("é un disabile? (1=Si, 0=No)");	 							
+	printf("é un disabile? (Si=1, No=0)");	 							
 	scanf("%f",&disabile);
 	if(disabile==0){																		
-		printf("é un accompagnatore? (1=Si, 0=No) ");	 				
+		printf("é un accompagnatore? (Si=1, No=0)");	 				
 		scanf("%f",&accompagnatore);													
 		if (accompagnatore==0){																	
 			printf ("\nInserire il valore dell'età");								
