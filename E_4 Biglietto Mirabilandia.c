@@ -12,20 +12,20 @@ main ()
 	float accompagnatore;	//Accompagnatore
 	float altezza;		//Altezza
 	float prezzo;		//Prezzo
-	float età;		//età
-	printf("é un disabile? (1=Si, 0=No) ");	 							
+	float età;		//Età
+	printf("é un disabile? (1=Si, 0=No)");	 							
 	scanf("%f",&disabile);
 	if(disabile==0){																		
 		printf("é un accompagnatore? (1=Si, 0=No) ");	 				
 		scanf("%f",&accompagnatore);													
 		if (accompagnatore==0){																	
-			printf ("Inserire il valore dell'età");								
+			printf ("\nInserire il valore dell'età");								
 			scanf("%f",&età);	
 			if (età>60){																
 				prezzo=25;														                                                  
 			}
 			else{																	
-				printf("Inserire il valore dell'altezza ");										
+				printf("\nInserire il valore dell'altezza");										
 				scanf("%f",&altezza);
 				if(altezza<=100){														
 					prezzo=0;															
