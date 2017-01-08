@@ -5,7 +5,7 @@ int i; //specifica il valore del contatore
 int min; //ecifica il valore del numero minore
 int N1; //specifica il valore del primo numero
 /*Alunno:Riccardo Ceccotti
-  Classe:3�INA
+  Classe:3°INA
   Data:28/12/2016
   Versione:1.0 */
 printf("inserire N numeri");
@@ -18,4 +18,5 @@ while (i>N) {
                   min=N1;
                   }          
       }
+printf("Il numero minimo è %d",min);
 }
