@@ -3,7 +3,7 @@ int main() {
 int N; //variabile che specifica il numero
 int i; //specifica il valore del contatore
 /*Alunno:Riccardo Ceccotti
-  Classe:3°INA
+  Classe:3Â°INA
   Data:28/12/2016
   Versione:1.0 */
 do {
@@ -12,6 +12,6 @@ do {
     while (!(N>=0)&&(N<=10))
    }
    for(i=0;i<=10;1=i+1) {
-                        printf(N*i);
+                        printf("%d",N*i);
                         }
 }                              
