@@ -5,7 +5,7 @@ int i; //specifica il valore del contatore
 int fat; //specifica il valore del fattoriale
 int N; 
 /*Alunno:Riccardo Ceccotti
-Classe:3°INA
+Classe:3Â°INA
 Data:28/12/2016
 Versione:1.0 */
 printf("inserire il valore di num");
@@ -16,7 +16,7 @@ while(i<num) {
              fat=fat*(N-1);
              i=i+1;
 }
-printf("il valore di fat è:%d",&fat);
+printf("il valore di fat Ã¨:%d",fat);
 }             
              
                  
