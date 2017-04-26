@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<math.h>
 
-/* Titolo: Creare unh programma che dateo un numero intero positivo verifichi se il numero è primo.
+/* Titolo: Creare un programma che dato un numero intero e positivo verifichi se il numero è primo.
    Studente: Riccardo Ceccotti
    Classe: 3°INA
    Data: 26/04/2017 
