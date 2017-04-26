@@ -5,7 +5,7 @@
 /* Titolo: Creare unh programma che dateo un numero intero positivo verifichi se il numero è primo.
    Studente: Riccardo Ceccotti
    Classe: 3°INA
-   Data: 24/04/2017 
+   Data: 26/04/2017 
    Versione: 1.0  */
 
 int main()
