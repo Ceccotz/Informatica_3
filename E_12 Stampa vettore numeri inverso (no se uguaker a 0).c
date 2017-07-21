@@ -2,8 +2,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 /*Alunno Riccardo Ceccotti
-Classe 3°INA
-Data 20/07/2017
+Classe 3Â°INA
+Data 21/07/2017
 Versione 1.0*/
 int main () {
 	int v[10];
