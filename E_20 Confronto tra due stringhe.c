@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 /*Alunno Riccardo Ceccotti
-Classe 3°INA
+Classe 3Â°INA
 Data 02/08/2017
 Versione 1.0*/
 int main () {
@@ -18,13 +18,13 @@ int main () {
 	
 	i=0;
 	uguali=0;
-	while(uguali==1 && (p1[i]!='\0' || p2[i]!='\0')){
-		if(p1[i]!=p2[i]){
-			uguali=0;
+	while(uguali==0 && (p1[i]!='\0' || p2[i]!='\0')){
+		if(p1[i]==p2[i]){
+			uguali=1;
 		}
 		i++;
 	}
-	if(uguali=1){
+	if(uguali==1){
 		printf("Sono uguali");
 	}else{
 		printf("Non sono uguali");
